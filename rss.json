@@ -4,8 +4,9 @@
       "title": "一觉醒来世界发生了什么",
       "url": "http://rss.abolast.xyz/jike/user/wenhao1996"
     },  
-    {
-      "url": "http://rss.abolast.xyz/zhihu/people/activities/mt36501?mode=fulltext"
+    { 
+      "title": "60秒读懂世界",
+      "url": "http://rss.abolast.xyz/zhihu/people/activities/mt36501?mode=fulltext&filterout=https*"
     }
    ]
 }
