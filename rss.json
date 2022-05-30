@@ -1,6 +1,10 @@
 {
   "rss_info": [
     {
+      "title": "阮一峰的网络日志",
+      "url": "http://feeds.feedburner.com/ruanyifeng"
+    },
+    {
       "title": "60秒读懂世界",
       "url": "http://rss.abolast.xyz/zhihu/posts/people/mt36501"
     }
